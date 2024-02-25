@@ -12,5 +12,5 @@ lazy val root = project
 
     libraryDependencies += "org.scalactic" %% "scalactic" % "3.2.2",
     libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.2" % "test",
-    libraryDependencies += "org.postgresql" % "postgresql" % "42.2.18",
+    libraryDependencies += "org.postgresql" % "postgresql" % "42.2.28",
   )
